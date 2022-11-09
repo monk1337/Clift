@@ -1,4 +1,4 @@
-# Clift
+# Clinical Distribution Shift (Clift)
 
 ## Introduction
 
