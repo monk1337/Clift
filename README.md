@@ -15,4 +15,4 @@ url={https://openreview.net/forum?id=9PQFROOfqm}
 ```
 
 
-Updated benchmark is available at openlifescience-ai.github.io/clift(openlifescience-ai.github.io/clift)
+Updated benchmark is available at [openlifescience-ai.github.io/clift](openlifescience-ai.github.io/clift)
